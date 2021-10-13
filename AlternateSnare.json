@@ -1,0 +1,18 @@
+{
+    "Name": "Alternate_Snare",
+    "RequiredGear": ["GEAR_GutDried","GEAR_Stick"],
+    "RequiredGearUnits": [1,3],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Snare",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

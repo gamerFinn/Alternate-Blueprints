@@ -1,0 +1,18 @@
+{
+    "Name": "Alternate_Arrowhead",
+    "RequiredGear": ["GEAR_Stone"],
+    "RequiredGearUnits": [3],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ArrowHead",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
